@@ -13,7 +13,7 @@
     <Name>SuffixArray</Name>
     <RootNamespace>SuffixArray</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>"E:\FAX\Diplomski\lll. Semestar\Bioinformatika\Projekt\Suffix-arrays\examples\\test28170.txt"</CommandLineArguments>
+    <CommandLineArguments>"E:\FAX\Diplomski\lll. Semestar\Bioinformatika\Projekt\Suffix-arrays\examples\\test4696.txt"</CommandLineArguments>
     <InterpreterPath />
     <InterpreterArguments />
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
