@@ -1,10 +1,14 @@
 Suffix-arrays
 =============
 
-Implementation of the Manber Myers algorithm  in three languages (C#, Java, Python). 
+###Projekt iz kolegija Bioinformatika   
+###Članovi tima:   
+1.  Petar Matković
+2.  Paula Pavlić
+3.  Željko Tadić
 
-### Introduction
+### Instalacija i pokretanje
+Postupak instalacije i pokretanja pojedinih programa opisani su u docs direktoriju u odgovarajućim datotekama
 
-### Installation
-
-### Example
+### Testni primjeri   
+U direktoriju "examples" nalazi se šest datoteka datoteka koje se mogu koristiti za testiranje
