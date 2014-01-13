@@ -235,7 +235,7 @@ namespace Manber_Myers_SA
                 foreach (int i in POS)
                     w.Write(i+", ");
                 w.Write("]");
-                w.WriteLine("\n");
+                w.WriteLine("");
                 w.WriteLine("PRM (inverse SA)");
                 w.Write("[");
                 foreach (int i in PRM)

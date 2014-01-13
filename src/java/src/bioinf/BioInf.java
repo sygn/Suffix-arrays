@@ -308,6 +308,8 @@ public class BioInf {
         }
         out.write("]");
         out.newLine();
+        out.newLine();
+        out.newLine();
         out.write("PRM (inverse SA)");
         out.newLine();
         out.write("[");
