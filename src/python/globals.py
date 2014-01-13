@@ -1,0 +1,5 @@
+DEBUG = 0
+TIME = 1
+TRUE = 1
+FALSE = 0
+MEMORY = 0
